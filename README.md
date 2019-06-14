@@ -1,2 +1,5 @@
 # test1
-Creating a new branch is quick & simple.
+
+
+Creating a New branch is quick and simple.
+
